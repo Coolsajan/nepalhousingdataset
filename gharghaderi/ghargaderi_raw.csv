@@ -1,0 +1,1225 @@
+price,location,land_area,no_of_flat,no_of_bedroom,no_of_bathroom,no_of_livingroom,no_of_kitchen,no_of_parking
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 3,19,99,999","Imadol,Lalitpur", Land area : 3Ana 2Dam, No of Flat : 3,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,24,99,999","Imadol,Lalitpur", Land area : 3.25Ana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,89,00,000","Setipakha,Lalitpur", Land area : 2.5 Aana, No of Flat : 2,Bedroom : 4, Bathroom : 3, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 1,55,00,000","Tikathali,Lalitpur", Land area : 3 Aana, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 2,90,00,000","Shital Height,Lalitpur", Land area : 3 Aana 2 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 3,25,00,000","Imadol,Lalitpur", Land area : 3 Aana 1 Paisa, No of Flat : 4,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :undefined
+" Price : 1,15,00,000","Ward 8 salakpur,Morang", Land area : 12dhur, No of Flat : 2.5,Bedroom : 4, Bathroom : 2, Living Room :1, Kitchen : 1,Parking :Car 1
+" Price : 2,90,00,000","Tikathali,Lalitpur", Land area : 3 Aana 1 Paisa 1 Daam, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Bansbari,Kathmandu", Land area : 4 Aana, No of Flat : 3,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 6,00,00,000","Bansbari,Kathmandu", Land area : 5 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 1,Parking :undefined
+" Price : 5,00,00,000","Basundhara,Kathmandu", Land area : 5 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 5,00,00,000","Hattigauda,Kathmandu", Land area : 5 Aana, No of Flat : 3.5,Bedroom : 7, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,00,00,000","Hattigauda,Kathmandu", Land area : 4.5 Aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,80,00,000","Hattigauda,Kathmandu", Land area : 7.5 Aana, No of Flat : 3.5,Bedroom : 6, Bathroom : 5, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 4,25,00,000","Hattigauda,Kathmandu", Land area : 4 Aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,80,00,000","Pepsicola,Kathmandu", Land area : 2 Aana 2 Paisa, No of Flat : 3.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,50,00,000","Balkot,Bhaktapur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 6, Bathroom : 3, Living Room :2, Kitchen : 2,Parking :Car 1
+" Price : 3,25,00,000","Kumaripati,Lalitpur", Land area : 4.2 anna, No of Flat : 3.5,Bedroom : 8, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 5,10,00,000","Hattiban,Lalitpur", Land area : 4 Aana 2 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 2,30,00,000","Hattiban,Lalitpur", Land area : 2 Aana 3 Paisa, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :2, Kitchen : 2,Parking :undefined
+" Price : 3,00,00,000","Imadol,Lalitpur", Land area : 3.5 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 5, Living Room :1, Kitchen : 2,Parking :Motorcycle
+" Price : 2,45,00,000","Imadol,Lalitpur", Land area : 3 aana, No of Flat : 2.5,Bedroom : 5, Bathroom : 4, Living Room :1, Kitchen : 2,Parking :Car 1
+" Price : 1,40,00,000","Sanagau,Lalitpur", Land area : 3 Aana 2 Paisa 1 Daam, No of Flat : 1.5,Bedroom : 2, Bathroom : 1, Living Room :1, Kitchen : 1,Parking :undefined
