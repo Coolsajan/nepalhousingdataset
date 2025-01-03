@@ -27,19 +27,19 @@ for linkss in listing_links:
 
     try:
         left_locater=soup.find_all('div',class_='left')[1]
-        price=left_locater.find_all('td',class_='test')[0].text+(left_locater.find_all('td',class_='test1')[0].text.strip("रु. , ")).strip()
-        land_area=left_locater.find_all('td',class_='test')[2].text+left_locater.find_all('td',class_='test1')[2].text.strip()
-        no_of_floor=left_locater.find_all('td',class_='test')[3].text+left_locater.find_all('td',class_='test1')[3].text.strip()
-        road_size=left_locater.find_all('td',class_='test')[4].text+left_locater.find_all('td',class_='test1')[4].text.strip()
+        price=(left_locater.find_all('td',class_='test1')[0].text.strip("रु. , ")).strip()
+        land_area=left_locater.find_all('td',class_='test1')[2].text.strip()
+        no_of_floor=left_locater.find_all('td',class_='test1')[3].text.strip()
+        road_size=left_locater.find_all('td',class_='test1')[4].text.strip()
     except: None
     try:
         right_locater=soup.find_all('div',class_='right')[1]
-        facing=right_locater.find_all('td',class_='test')[0].text+right_locater.find_all('td',class_='test1')[0].text.strip()
-        no_of_bedroom=right_locater.find_all('td',class_='test')[1].text+right_locater.find_all('td',class_='test1')[1].text.strip()
-        no_of_bathroom=right_locater.find_all('td',class_='test')[2].text+right_locater.find_all('td',class_='test1')[2].text.strip()
-        no_of_livingroom=right_locater.find_all('td',class_='test')[3].text+right_locater.find_all('td',class_='test1')[3].text.strip()
-        no_of_kitchen=right_locater.find_all('td',class_='test')[4].text+right_locater.find_all('td',class_='test1')[4].text.strip()
-        parking=right_locater.find_all('td',class_='test')[-2].text+right_locater.find_all('td',class_='test1')[-2].text.strip()
+        facing=right_locater.find_all('td',class_='test1')[0].text.strip()
+        no_of_bedroom=right_locater.find_all('td',class_='test1')[1].text.strip()
+        no_of_bathroom=right_locater.find_all('td',class_='test1')[2].text.strip()
+        no_of_livingroom=right_locater.find_all('td',class_='test1')[3].text.strip()
+        no_of_kitchen=right_locater.find_all('td',class_='test1')[4].text.strip()
+        parking=right_locater.find_all('td',class_='test1')[-2].text.strip()
     except : None
     try:
         top_right_locater=soup.find_all('div',class_='right')[0]

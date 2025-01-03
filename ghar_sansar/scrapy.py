@@ -99,7 +99,7 @@ for link in listing_links:
     print(count)
 
 data_set=pd.DataFrame(all_det)
-data_set.to_csv('gharsansar_raw.csv',index=False)
+data_set.to_csv('gharsansar_raw1.csv',index=False)
 
 
 

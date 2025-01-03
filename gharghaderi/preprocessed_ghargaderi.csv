@@ -1,0 +1,1225 @@
+price,location,land_area,no_of_flat,no_of_bedroom,no_of_bathroom,no_of_livingroom,no_of_kitchen,no_of_parking
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
+31999999.0,"Imadol,Lalitpur", 3Ana 2Dam,3.0,6.0,5.0,2.0,2.0,Car 1
+32499999.0,"Imadol,Lalitpur", 3.25Ana,3.0,6.0,4.0,1.0,2.0,Car 1
+18900000.0,"Setipakha,Lalitpur", 2.5 Aana,2.0,4.0,3.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+15500000.0,"Tikathali,Lalitpur", 3 Aana,1.5,2.0,1.0,1.0,1.0,undefined
+29000000.0,"Shital Height,Lalitpur", 3 Aana 2 Daam,3.5,5.0,4.0,1.0,2.0,undefined
+32500000.0,"Imadol,Lalitpur", 3 Aana 1 Paisa,4.0,5.0,4.0,1.0,2.0,undefined
+11500000.0,"Ward 8 salakpur,Morang", 12dhur,2.5,4.0,2.0,1.0,1.0,Car 1
+29000000.0,"Tikathali,Lalitpur", 3 Aana 1 Paisa 1 Daam,3.5,5.0,4.0,2.0,2.0,undefined
+40000000.0,"Bansbari,Kathmandu", 4 Aana,3.0,6.0,4.0,2.0,2.0,undefined
+60000000.0,"Bansbari,Kathmandu", 5 Aana 3 Paisa,2.5,5.0,4.0,1.0,1.0,undefined
+50000000.0,"Basundhara,Kathmandu", 5 Aana,2.5,5.0,4.0,2.0,2.0,undefined
+50000000.0,"Hattigauda,Kathmandu", 5 Aana,3.5,7.0,5.0,2.0,2.0,undefined
+40000000.0,"Hattigauda,Kathmandu", 4.5 Aana,2.5,6.0,4.0,2.0,2.0,undefined
+48000000.0,"Hattigauda,Kathmandu", 7.5 Aana,3.5,6.0,5.0,2.0,2.0,undefined
+42500000.0,"Hattigauda,Kathmandu", 4 Aana,2.5,5.0,3.0,2.0,2.0,undefined
+28000000.0,"Pepsicola,Kathmandu", 2 Aana 2 Paisa,3.5,5.0,4.0,2.0,2.0,undefined
+25000000.0,"Balkot,Bhaktapur", 3.5 aana,2.5,6.0,3.0,2.0,2.0,Car 1
+32500000.0,"Kumaripati,Lalitpur", 4.2 anna,3.5,8.0,4.0,1.0,2.0,Motorcycle
+51000000.0,"Hattiban,Lalitpur", 4 Aana 2 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+23000000.0,"Hattiban,Lalitpur", 2 Aana 3 Paisa,2.5,5.0,4.0,2.0,2.0,undefined
+30000000.0,"Imadol,Lalitpur", 3.5 aana,2.5,5.0,5.0,1.0,2.0,Motorcycle
+24500000.0,"Imadol,Lalitpur", 3 aana,2.5,5.0,4.0,1.0,2.0,Car 1
+14000000.0,"Sanagau,Lalitpur", 3 Aana 2 Paisa 1 Daam,1.5,2.0,1.0,1.0,1.0,undefined
