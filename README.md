@@ -25,4 +25,5 @@ After activiation new and fresh env we need to install dependency and libaries .
 ''' bash
 pip install -r requirements.txt
 '''
+
 This will install all the required libaries that are mentioned in requiremenets.txt
