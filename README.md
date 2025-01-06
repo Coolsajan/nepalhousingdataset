@@ -6,24 +6,24 @@ It was a difficutle task to collect data from the neapli site cause there was al
 # Get Started 
 ## Cloning the repo
 
-''' bash
+``` bash
 git clone https://github.com/Coolsajan/nepalhousingdataset.git
-'''
+```
 
 ## Creating virtual enviroment / Activation
 It is always a best practice to follow with a new envirmoent for new project .
 
-''' bash
+```bash
 python -m venv newenv
 /newvenv/Scripts/activate.bat
-'''
+```
 
 
 ## Instaliing all requiremnts
 After activiation new and fresh env we need to install dependency and libaries .
 
-''' bash
+``` bash
 pip install -r requirements.txt
-'''
+```
 
 This will install all the required libaries that are mentioned in requiremenets.txt
